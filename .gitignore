@@ -1,6 +1,9 @@
 # Compiler files
 cache/
 out/
+broadcast/
+card/
+image/
 
 # Ignores development broadcast logs
 !/broadcast
